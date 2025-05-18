@@ -91,6 +91,99 @@
       <p>Whatsapp</p>
     </a>
   </footer>
+body {
+    color: greenyellow;
+    background-color: rgb(27, 4, 108);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul li {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(63, 48, 103);
+    color: rgb(245, 248, 240);
+    border-radius: 10px;
+    display: flex;
+bottom: left;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(63, 48, 103);
+    border-radius: 10px;
+    border: 2px solid rgb(233, 28, 28);
+
+}
+
+section h3 {
+    color: tomato;
+}
+
+header img {
+    width: 300px;
+    margin: 40px;
+    height: 200px;
+    border-radius: 1%;
+    border: 2px solid rgb(233, 28, 28)
+}
+
+.center {
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: rgb(202, 14, 14);
+}
+
+footer img {
+    width: 60px;
+    height: 80px;
+    padding: 8px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+section p {
+    margin: 20px;
+    text-align: center;
+    display: flex;
+}
+
+footer p {
+    margin: 20px;
+    text-align: center;
+    display: flex;
+}
+
+.container {
+    padding: 8px 100px;
+}
+
+nav a:hover {
+    color: red;
+}
+
+section a:hover {
+    color: rgb(65, 24, 231);
+}
+
+
+
 
   <body>
     <h1>Exemplo de Vídeo em HTML</h1>
